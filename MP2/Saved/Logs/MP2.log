@@ -11561,3 +11561,321 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.03.14-06.17.57:192][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball2]
 [2022.03.14-06.17.57:211][472]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/enemy_fireball2_Auto52BA8E6524A3197E136D569B0B6F33BBC.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball2_Auto5.uasset'
 [2022.03.14-06.17.57:212][472]LogFileHelpers: Auto-saving content packages took 0.322
+[2022.03.14-07.55.27:712][853]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.14-07.55.27:721][853]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.14-07.55.27:722][853]LogAudioMixer: Display: 1: FrontRight
+[2022.03.14-07.55.32:406][867]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.14-10.55.32:729][867]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.03.14-10.55.32:729][867]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.14-10.55.32:729][867]LogAudioMixer: Display: 1: FrontRight
+[2022.03.14-10.55.33:011][868]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.14-10.55.33:022][868]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.14-10.55.33:022][868]LogAudioMixer: Display: 1: FrontRight
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1aa7da14790 [can pipeline])
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 1 (Re-using existing connection! (#16) with host datarouter.ol.epicgames.com)
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.213.145.38) port 443 (#16))
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.03.14-10.55.35:673][877]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 7 (Closing connection 16)
+[2022.03.14-10.55.36:012][878]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.15-02.41.36:087][879]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.15-02.41.36:100][879]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-02.41.36:100][879]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-02.41.36:187][880]LogHttp: Warning: 000001AAE794F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.15-02.41.36:187][880]LogHttp: Warning: 000001AAE794F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.15-02.41.36:187][880]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.15-02.41.36:187][880]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 1 (Closing connection 17)
+[2022.03.15-02.41.36:188][880]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.15-05.00.49:533][783]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.15-05.00.49:548][783]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-05.00.49:548][783]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-05.00.51:206][788]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.15-08.00.49:076][788]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-08.00.49:076][788]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-08.00.50:044][789]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.15-08.00.50:076][789]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-08.00.50:076][789]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-08.00.52:986][798]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.17-03.55.58:351][798]LogHttp: Warning: 000001AAE794F200: HTTP request timed out after 158110.80 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-03.55.58:351][798]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-03.55.58:351][798]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-03.56.00:262][799]LogHttp: Warning: 000001AAE794F200: request failed, libcurl error: 0 (No error)
+[2022.03.17-03.56.00:262][799]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1aa7da14df0 [can pipeline])
+[2022.03.17-03.56.00:262][799]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 1 (Re-using existing connection! (#18) with host datarouter.ol.epicgames.com)
+[2022.03.17-03.56.00:262][799]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.25.227.186) port 443 (#18))
+[2022.03.17-03.56.00:263][799]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.03.17-03.56.00:263][799]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 4 (Closing connection 18)
+[2022.03.17-03.56.00:263][799]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.03.17-03.56.00:993][799]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.17-03.56.01:014][799]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-03.56.01:014][799]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-03.56.01:078][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-03.56.01:431][802]LogHttp: Warning: 000001AAE794F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-03.56.01:432][802]LogHttp: Warning: 000001AAE794F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-03.56.01:432][802]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-03.56.01:432][802]LogHttp: Warning: 000001AAE794F200: libcurl info message cache 1 (Closing connection 19)
+[2022.03.17-03.56.01:432][802]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-03.56.41:345][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.17-03.56.41:359][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-03.56.41:359][ 55]PIE: New page: PIE session: LearningKit_Games_Showcase (2022年3月16日 下午5:56:41)
+[2022.03.17-03.56.41:361][ 55]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-03.56.41:411][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050568s)
+[2022.03.17-03.56.41:414][ 55]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.03.17-03.56.41:415][ 55]LogPlayLevel: PIE: World Init took: (0.003289s)
+[2022.03.17-03.56.41:415][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.054283s)
+[2022.03.17-03.56.41:733][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2022.03.17-03.56.41:740][ 55]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2022.03.17-03.56.41:740][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-03.56.41:740][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-03.56.41:740][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-03.56.41:740][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-03.56.41:740][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.17-03.56.41:740][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.17-03.56.41:740][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.17-03.56.41:740][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-03.56.41:741][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.17-03.56.41:741][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.17-03.56.41:741][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-03.56.41:741][ 55]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-03.56.41:746][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-03.56.41:746][ 55]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-03.56.41:789][ 55]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.17-03.56.41:792][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-03.56.41:792][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-03.56.41:792][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-03.56.41:793][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-03.56.41:793][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-03.56.41:793][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-03.56.41:795][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-03.56.41:795][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-03.56.41:795][ 55]LogInit: FAudioDevice initialized.
+[2022.03.17-03.56.41:795][ 55]LogAudio: Display: Audio Device (ID: 98) registered with world 'LearningKit_Games_Showcase'.
+[2022.03.17-03.56.41:813][ 55]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.03.17-03.56.41:825][ 55]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 60) at 2022.03.16-22.56.41
+[2022.03.17-03.56.43:495][ 55]LogWorld: Bringing up level for play took: 1.681468
+[2022.03.17-03.56.43:496][ 55]LogOnline: OSS: Creating online subsystem instance for: :Context_137
+[2022.03.17-03.56.43:506][ 55]PIE: Server logged in
+[2022.03.17-03.56.43:507][ 55]PIE: Play in editor total start time 2.152 seconds.
+[2022.03.17-03.56.43:830][ 56]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085524 > MaxSimulationTimeStep (0.050) for 'BP_Stoneenemy_2', movement 'Walking'
+[2022.03.17-03.56.43:842][ 57]LogHttp: Warning: 000001AA505FB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-03.56.43:842][ 57]LogHttp: Warning: 000001AA505FB200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-03.56.43:842][ 57]LogHttp: Warning: 000001AA505FB200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-03.56.43:842][ 57]LogHttp: Warning: 000001AA505FB200: libcurl info message cache 1 (Closing connection 20)
+[2022.03.17-03.56.43:872][ 58]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-03.56.45:629][147]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Patrolpoints' of length 0 in '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer.BP_flyer_C'!
+[2022.03.17-03.57.01:130][ 77]LogBlueprintUserMessages: [Increment_PathIndex_C_0] 2
+[2022.03.17-03.57.01:614][106]LogBlueprintUserMessages: [Increment_PathIndex_C_0] 2
+[2022.03.17-03.57.15:283][861]LogHttp: Warning: 000001AB8617D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-03.57.15:283][861]LogHttp: Warning: 000001AB8617D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-03.57.15:283][861]LogHttp: Warning: 000001AB8617D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-03.57.15:283][861]LogHttp: Warning: 000001AB8617D600: libcurl info message cache 1 (Closing connection 21)
+[2022.03.17-03.57.15:300][862]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-03.57.17:660][  3]LogBlueprintUserMessages: [Increment_PathIndex_C_0] 3
+[2022.03.17-03.57.19:794][131]LogBlueprintUserMessages: [Increment_PathIndex_C_0] 3
+[2022.03.17-03.57.26:156][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-03.57.26:156][447]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-03.57.26:156][447]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-03.57.26:158][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-03.57.26:170][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-03.57.26:194][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-03.57.26:230][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-03.57.26:230][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-03.57.26:231][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-03.57.26:237][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-03.57.26:244][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.03.17-03.57.26:311][448]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2022.03.17-03.57.34:083][841]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.17-03.57.34:094][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-03.57.34:094][841]PIE: New page: PIE session: LearningKit_Games_Showcase (2022年3月16日 下午5:57:34)
+[2022.03.17-03.57.34:095][841]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-03.57.34:122][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027294s)
+[2022.03.17-03.57.34:123][841]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.03.17-03.57.34:123][841]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2022.03.17-03.57.34:123][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.028833s)
+[2022.03.17-03.57.34:173][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.03.17-03.57.34:176][841]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.17-03.57.34:176][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-03.57.34:176][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.17-03.57.34:176][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.17-03.57.34:176][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-03.57.34:176][841]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-03.57.34:180][841]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-03.57.34:180][841]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-03.57.34:233][841]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.17-03.57.34:234][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-03.57.34:234][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-03.57.34:234][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-03.57.34:235][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-03.57.34:235][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-03.57.34:235][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-03.57.34:237][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-03.57.34:237][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-03.57.34:237][841]LogInit: FAudioDevice initialized.
+[2022.03.17-03.57.34:237][841]LogAudio: Display: Audio Device (ID: 99) registered with world 'LearningKit_Games_Showcase'.
+[2022.03.17-03.57.34:252][841]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.03.17-03.57.34:263][841]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 60) at 2022.03.16-22.57.34
+[2022.03.17-03.57.36:079][841]LogWorld: Bringing up level for play took: 1.826005
+[2022.03.17-03.57.36:079][841]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2022.03.17-03.57.36:086][841]PIE: Server logged in
+[2022.03.17-03.57.36:086][841]PIE: Play in editor total start time 1.995 seconds.
+[2022.03.17-03.57.38:338][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Patrolpoints' of length 0 in '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer.BP_flyer_C'!
+[2022.03.17-03.57.52:608][785]LogBlueprintUserMessages: [Increment_PathIndex_C_0] 2
+[2022.03.17-03.57.54:321][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-03.57.54:321][886]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-03.57.54:322][886]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-03.57.54:323][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-03.57.54:336][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-03.57.54:355][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-03.57.54:392][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-03.57.54:392][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-03.57.54:394][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-03.57.54:404][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.17-03.57.54:456][887]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2022.03.17-03.58.11:129][866]LogHttp: Warning: 000001AB0DD21D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-03.58.11:130][866]LogHttp: Warning: 000001AB0DD21D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-03.58.11:130][866]LogHttp: Warning: 000001AB0DD21D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-03.58.11:130][866]LogHttp: Warning: 000001AB0DD21D00: libcurl info message cache 1 (Closing connection 22)
+[2022.03.17-03.58.11:130][866]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-03.59.11:192][ 10]LogHttp: Warning: 000001AB65819D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-03.59.11:192][ 10]LogHttp: Warning: 000001AB65819D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-03.59.11:192][ 10]LogHttp: Warning: 000001AB65819D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-03.59.11:192][ 10]LogHttp: Warning: 000001AB65819D00: libcurl info message cache 1 (Closing connection 23)
+[2022.03.17-03.59.11:192][ 10]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-04.00.11:147][ 59]LogHttp: Warning: 000001AB6EE23900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-04.00.11:147][ 59]LogHttp: Warning: 000001AB6EE23900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-04.00.11:147][ 59]LogHttp: Warning: 000001AB6EE23900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-04.00.11:147][ 59]LogHttp: Warning: 000001AB6EE23900: libcurl info message cache 1 (Closing connection 24)
+[2022.03.17-04.00.11:165][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-04.00.17:586][379]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2022.03.17-04.00.17:843][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.03.17-04.00.21:787][537]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.17-04.00.21:795][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-04.00.21:795][537]PIE: New page: PIE session: LearningKit_Games_Showcase (2022年3月16日 下午6:00:21)
+[2022.03.17-04.00.21:818][537]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-04.00.21:840][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021807s)
+[2022.03.17-04.00.21:841][537]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.03.17-04.00.21:841][537]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2022.03.17-04.00.21:841][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.023098s)
+[2022.03.17-04.00.21:882][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.03.17-04.00.21:887][537]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2022.03.17-04.00.21:887][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-04.00.21:887][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-04.00.21:887][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.17-04.00.21:887][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.17-04.00.21:887][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.17-04.00.21:887][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.17-04.00.21:887][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.17-04.00.21:887][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-04.00.21:888][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.17-04.00.21:888][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.17-04.00.21:888][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.17-04.00.21:888][537]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-04.00.21:891][537]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.17-04.00.21:891][537]LogAudioMixer: Display: 1: FrontRight
+[2022.03.17-04.00.21:935][537]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.17-04.00.21:935][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.17-04.00.21:935][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.17-04.00.21:935][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.17-04.00.21:936][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.17-04.00.21:936][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.17-04.00.21:936][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.17-04.00.21:937][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.17-04.00.21:937][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.17-04.00.21:937][537]LogInit: FAudioDevice initialized.
+[2022.03.17-04.00.21:938][537]LogAudio: Display: Audio Device (ID: 100) registered with world 'LearningKit_Games_Showcase'.
+[2022.03.17-04.00.21:950][537]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.03.17-04.00.21:958][537]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 60) at 2022.03.16-23.00.21
+[2022.03.17-04.00.23:657][537]LogWorld: Bringing up level for play took: 1.705498
+[2022.03.17-04.00.23:657][537]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2022.03.17-04.00.23:663][537]PIE: Server logged in
+[2022.03.17-04.00.23:664][537]PIE: Play in editor total start time 1.871 seconds.
+[2022.03.17-04.00.25:775][644]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Patrolpoints' of length 0 in '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer.BP_flyer_C'!
+[2022.03.17-04.00.48:862][980]LogNet: Browse: /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase
+[2022.03.17-04.00.48:862][980]LogLoad: LoadMap: /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase
+[2022.03.17-04.00.48:862][980]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-04.00.48:863][980]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-04.00.48:865][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-04.00.48:939][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-04.00.48:947][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.17-04.00.48:953][980]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-04.00.48:982][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028801s)
+[2022.03.17-04.00.48:983][980]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.03.17-04.00.48:983][980]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2022.03.17-04.00.48:983][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.030266s)
+[2022.03.17-04.00.48:983][980]LogAudio: Display: Audio Device (ID: 100) registered with world 'LearningKit_Games_Showcase'.
+[2022.03.17-04.00.48:983][980]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.03.17-04.00.48:988][980]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 60) at 2022.03.16-23.00.48
+[2022.03.17-04.00.51:311][980]LogWorld: Bringing up level for play took: 2.326778
+[2022.03.17-04.00.51:318][980]LogLoad: Took 2.455542 seconds to LoadMap(/Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase)
+[2022.03.17-04.00.53:437][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Patrolpoints' of length 0 in '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer.BP_flyer_C'!
+[2022.03.17-04.01.10:687][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-04.01.10:687][113]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.03.17-04.01.10:687][113]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-04.01.10:689][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-04.01.10:700][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-04.01.10:718][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-04.01.10:756][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.17-04.01.10:756][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-04.01.10:757][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.17-04.01.10:762][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-04.01.10:767][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.17-04.01.10:816][114]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2022.03.17-04.01.11:129][132]LogHttp: Warning: 000001AB3AA57200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-04.01.11:129][132]LogHttp: Warning: 000001AB3AA57200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-04.01.11:129][132]LogHttp: Warning: 000001AB3AA57200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-04.01.11:129][132]LogHttp: Warning: 000001AB3AA57200: libcurl info message cache 1 (Closing connection 25)
+[2022.03.17-04.01.11:129][132]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-04.01.36:844][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.03.17-04.01.36:997][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/LearningKit_Games_Showcase_Auto6549F43D3414097ACB946E8A63365351F.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto6.umap'
+[2022.03.17-04.01.37:001][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.214
+[2022.03.17-04.01.37:001][288]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.214
+[2022.03.17-04.01.37:002][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_AI/BP_patroler] ([2] browsable assets)...
+[2022.03.17-04.01.37:029][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_AI/BP_patroler.BP_patroler]
+[2022.03.17-04.01.37:029][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_AI/BP_patroler]
+[2022.03.17-04.01.37:062][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/BP_patroler_Auto6B60ED051472DFE90F0F3B8972FB1A1B3.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_AI/BP_patroler_Auto6.uasset'
+[2022.03.17-04.01.37:065][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter] ([2] browsable assets)...
+[2022.03.17-04.01.37:088][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter]
+[2022.03.17-04.01.37:088][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter]
+[2022.03.17-04.01.37:219][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/BP_LearningKit_PlayerCharacter_A75FCE1784C9C1C9A568303B16576D7DB.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter_Auto6.uasset'
+[2022.03.17-04.01.37:258][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_boom] ([2] browsable assets)...
+[2022.03.17-04.01.37:278][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_boom.BP_boom]
+[2022.03.17-04.01.37:278][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_boom]
+[2022.03.17-04.01.37:320][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/BP_boom_Auto6287ED37B4DD207712AD7C1A06E768414.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_boom_Auto6.uasset'
+[2022.03.17-04.01.37:322][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer] ([2] browsable assets)...
+[2022.03.17-04.01.37:346][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer.BP_flyer]
+[2022.03.17-04.01.37:346][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer]
+[2022.03.17-04.01.37:405][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/BP_flyer_Auto6F5925AD34620BD8D4001C7B5B339C04C.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_flyer_Auto6.uasset'
+[2022.03.17-04.01.37:407][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball] ([2] browsable assets)...
+[2022.03.17-04.01.37:426][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball.enemy_fireball]
+[2022.03.17-04.01.37:426][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball]
+[2022.03.17-04.01.37:461][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/enemy_fireball_Auto6CCC92FF0468E9CA1462D4B9F1ED96D8E.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball_Auto6.uasset'
+[2022.03.17-04.01.37:464][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_mortar] ([2] browsable assets)...
+[2022.03.17-04.01.37:485][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_mortar.BP_mortar]
+[2022.03.17-04.01.37:485][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_mortar]
+[2022.03.17-04.01.37:532][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/BP_mortar_Auto69475CE7142EFE25362DD1EAABB19FCBF.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_enemy/BP_mortar_Auto6.uasset'
+[2022.03.17-04.01.37:534][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball2] ([2] browsable assets)...
+[2022.03.17-04.01.37:554][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball2.enemy_fireball2]
+[2022.03.17-04.01.37:555][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball2]
+[2022.03.17-04.01.37:588][288]LogSavePackage: Moving '../../../../../Unreal project/MP2/Saved/enemy_fireball2_Auto6F8F3D5C142B08C6AD8095FA71BE13D0D.tmp' to '../../../../../Unreal project/MP2/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/enemy_fireball2_Auto6.uasset'
+[2022.03.17-04.01.37:589][288]LogFileHelpers: Auto-saving content packages took 0.588
+[2022.03.17-04.02.11:476][391]LogHttp: Warning: 000001AB85E49D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-04.02.11:476][391]LogHttp: Warning: 000001AB85E49D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-04.02.11:476][391]LogHttp: Warning: 000001AB85E49D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-04.02.11:476][391]LogHttp: Warning: 000001AB85E49D00: libcurl info message cache 1 (Closing connection 26)
+[2022.03.17-04.02.11:811][392]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.17-04.03.11:459][570]LogHttp: Warning: 000001AB1FFC7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.17-04.03.11:459][570]LogHttp: Warning: 000001AB1FFC7900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.03.17-04.03.11:459][570]LogHttp: Warning: 000001AB1FFC7900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.03.17-04.03.11:459][570]LogHttp: Warning: 000001AB1FFC7900: libcurl info message cache 1 (Closing connection 27)
+[2022.03.17-04.03.11:459][570]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B1F84E6-44A0-1558-55ED-B8960AFC4E18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=957f9ed84924f7c215c03ea954e2c211%7C934c0e2eb280469581b2a795d0196dc1%7C5081a2d8-5744-46d5-ae44-ba0f35332a17&AppEnvironment=datacollector-binary&UploadType=eteventstream
